@@ -1,0 +1,12 @@
+[
+    {
+       "_id":{
+          "$oid":"5f2a8d645d0e656ed63870f0"
+       },
+       "FirstName":"Ritesh",
+       "LastName":"ytyt",
+       "Email":"test345@mailinator.com",
+       "Phone":"8989897876",
+       "Gender":"Male"
+    }
+ ]
